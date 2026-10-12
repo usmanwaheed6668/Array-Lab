@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArrayLab/ArrayLab.csproj" />
+  <Project Path="ArrayLabApi/ArrayLabApi.csproj" />
+</Solution>

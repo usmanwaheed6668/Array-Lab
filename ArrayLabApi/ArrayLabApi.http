@@ -1,0 +1,6 @@
+@ArrayLabApi_HostAddress = http://localhost:5057
+
+GET {{ArrayLabApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
